@@ -37,7 +37,8 @@
 			{
 				"id": 9593,
 				"constant": "NS_BUCKET_TALK",
-				"name": "Bucket_talk"
+				"name": "Bucket_talk",
+				"subpages": true
 			}
 	],
 	"Hooks": {
